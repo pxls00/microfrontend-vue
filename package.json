@@ -1,0 +1,8 @@
+{
+  "name": "monorepa-module-federation",
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*",
+    "services/*"
+  ]
+}
